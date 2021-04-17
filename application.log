@@ -1,0 +1,5 @@
+2021-04-17 13:33:30,882  INFO [main] LoginSteps:21 - url is opened
+2021-04-17 13:33:31,200  INFO [main] LoginSteps:28 - username entered
+2021-04-17 13:33:31,509  INFO [main] LoginSteps:30 - password entered
+2021-04-17 13:33:32,153  INFO [main] LoginSteps:39 - user clicked on submit button
+2021-04-17 13:33:32,173  INFO [main] LoginSteps:46 - test pass
